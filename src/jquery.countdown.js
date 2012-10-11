@@ -2,8 +2,8 @@
  * Class:      countdown
  * Author:     Edoardo Tenani
  * Website:    http://about.me/edoardo.tenani
- * Version:    1.0.0
- * Date:       28/09/2012
+ * Version:    VERSION
+ * Date:       DATE
  * Tested On:  jQuery 1.8.0
  * Require:    Bel Alman jQuery doTimeout plugin
  *             http://benalman.com/projects/jquery-dotimeout-plugin/
@@ -107,7 +107,7 @@
         });
 
         return _this;
-      });
+      });
     }
 
     /**
@@ -143,7 +143,7 @@
      *
      * @access public
      */
-    function option (key, val) {
+    function option(key, val) {
       if (val) {
         options[key] = val;
       } else {

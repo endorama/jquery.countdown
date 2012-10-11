@@ -70,6 +70,10 @@ Sample usage:
       }
     });
 
+## Tests
+
+jQuery Countdown public methods are all tested. You can perform the tests opening `specRunner.html` in you browser.
+
 ## License
 
 Licensed under the MIT License. See LICENSE for details.
