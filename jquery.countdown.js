@@ -60,9 +60,7 @@
      * @access public
      */
     function reset() {
-      stop();
       $el.data('to', options.start);
-      start();
     }
 
     /**

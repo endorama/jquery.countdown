@@ -45,7 +45,7 @@ Get or set some option of the plugin instance. Useful to change options on a run
 
     $('#countdown').countdown('reset');
 
-Reset the countdown, the next step will start from the start number defined on plugin initialization.
+Reset the countdown to the starting number.
 
 ### Start a stopped countdown
 
